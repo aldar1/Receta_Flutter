@@ -25,9 +25,7 @@ class RecipeDetailAppBar extends StatelessWidget {
           fit: BoxFit.cover,
         ),
         stretchModes: const [
-          // optional
           StretchMode.blurBackground,
-          // --------
           StretchMode.zoomBackground
         ],
       ),
